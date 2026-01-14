@@ -11,5 +11,5 @@ git init
 git add .
 git commit -m "İlk sürüm"
 git branch -M main
-git remote add origin https://github.com/KULLANICI_ADIN/python-2fa-authenticator.git
+git remote add origin https://github.com/KULLANICI_ADIM/python-2fa-authenticator.git
 git push -u origin main
